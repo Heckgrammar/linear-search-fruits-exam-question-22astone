@@ -6,6 +6,7 @@
         {
             string[] fruits = { "banana", "apple", "orange", "pear", "grape", "pineapple" };
 
+            //
             // Your program should:
             // Ask the user what word they would like to find
             // Output the message True if the word is found
